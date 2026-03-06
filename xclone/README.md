@@ -32,7 +32,7 @@ To run this project on your local machine for testing, open your terminal and ru
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/yourusername/x-clone.git](https://github.com/yourusername/x-clone.git)
+git clone [https://github.com/SrijanGupta2006/x-clone.git](https://github.com/SrijanGupta2006/x-clone.git)
 
 # 2. Navigate into the project folder
 cd x-clone
